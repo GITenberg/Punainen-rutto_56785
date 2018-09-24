@@ -1,0 +1,34 @@
+_repo: Punainen-rutto_56785
+_version: 0.0.1
+alternative_title: The scarlet plague. Finnish
+contributor:
+  translator:
+    agent_name: Lehto, Ilmari
+    gutenberg_agent_id: '47685'
+    url: http://www.gutenberg.org/2009/agents/47685
+creator:
+  author:
+    agent_name: London, Jack
+    alias: Chaney, John Griffith
+    birthdate: 1876
+    deathdate: 1916
+    gutenberg_agent_id: '120'
+    url: http://www.gutenberg.org/2009/agents/120
+    wikipedia: http://en.wikipedia.org/wiki/Jack_London
+description: ''
+gutenberg_issued: '2018-03-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56785'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Plague -- Fiction'
+- !lcc 'PS'
+- !lcsh 'End of the world -- Fiction'
+- !lcsh 'Science fiction'
+- GITenberg
+title: Punainen rutto
+url: http://www.gutenberg.org/ebooks/56785
